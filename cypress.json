@@ -1,4 +1,3 @@
 {
-    "_baseUrl" : "https://example.cypress.io",
-    "baseUrl" : "http://localhost:8080"
+    "baseUrl" : "https://example.cypress.io"
 }
